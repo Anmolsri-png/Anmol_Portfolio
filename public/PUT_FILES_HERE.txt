@@ -1,0 +1,7 @@
+Place Anmol's files in THIS folder (public/):
+
+  Anmol_photo.jpg               <- profile photo (square headshot, JPG, at least 400x400 px)
+  Anmol_Srivastava_Resume.pdf   <- resume (already here; replace it to update)
+
+File names must match exactly (case-sensitive).
+If Anmol_photo.jpg is missing, the site shows the initials "AS" instead.

@@ -1,0 +1,2 @@
+/* Tailwind is loaded at runtime via the browser build in public/index.html
+   (CRA 4 does not run the Tailwind v4 PostCSS plugin). Global styles live in styles/App.css. */
