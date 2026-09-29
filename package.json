@@ -1,0 +1,48 @@
+{
+  "name": "anmol-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website for Anmol Srivastava \u2014 Entry-Level Python Developer, SQL Developer and Data Analyst.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "portfolio",
+    "python developer",
+    "sql developer",
+    "data analyst",
+    "power bi",
+    "react"
+  ],
+  "author": "Anmol Srivastava",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.24",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  },
+  "homepage": ".",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
